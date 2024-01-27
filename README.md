@@ -33,7 +33,7 @@ rometheus and Grafana
 
 ### Kubernetes (EKS):
 
-``` Purpose: Kubernetes orchestrates containerized applications, providing scalability and resilience. EKS (Elastic Kubernetes Service) simplifies the deployment and management of Kubernetes clusters on AWS.``
+``` Purpose: Kubernetes orchestrates containerized applications, providing scalability and resilience. EKS (Elastic Kubernetes Service) simplifies the deployment and management of Kubernetes clusters on AWS.```
 
 ### ArgoCD:
 
